@@ -4,7 +4,8 @@
 
 **Project Features:**
 1. Combine Random Adjectives and Nouns:
-Generate usernames by combining a list of pre-defined adjectives and nouns. For example, "CoolTiger123" or "HappyDragon!". 2. Customization Options:
+Generate usernames by combining a list of pre-defined adjectives and nouns. For example, "CoolTiger123" or "HappyDragon!".
+2. Customization Options:
 - Allow users to include numbers or special characters in the generated usernames.
 - Optionally set the length or structure of the usernames.
 3. Save Usernames to a File:
@@ -20,5 +21,6 @@ Generate usernames by combining a list of pre-defined adjectives and nouns. For 
 3. Error Handling:
 - Ensure the program handles user input gracefully (e.g., invalid options).
 4. Test Thoroughly:
-- Test the program with different inputs and combinations to ensure it works as expected. 5. Make it User-Friendly:
+- Test the program with different inputs and combinations to ensure it works as expected.
+5. Make it User-Friendly:
 Use clear prompts and messages to guide the user through the program.
