@@ -11,6 +11,7 @@ Generate usernames by combining a list of pre-defined adjectives and nouns. For 
 - Save the generated usernames to a text file for future use or sharing.
 4. Interactive User Input:
 - Include options for users to specify their preferences (e.g., add numbers, special characters, or both).
+
 **Tips for Success:**
 1. Plan Your Code:
 - Break the project into small tasks such as defining adjective/noun lists, generating random combinations, and saving output to a file.
