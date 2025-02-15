@@ -1,5 +1,7 @@
 **Project Title:** Random Username Generator
+
 **Objective:**  The goal of this project is to create a Python program that generates unique and fun usernames suitable for social media or gaming platforms. This project will help you practice basic Python concepts such as working with lists, randomization, and file handling.
+
 **Project Features:**
 1. Combine Random Adjectives and Nouns:
 Generate usernames by combining a list of pre-defined adjectives and nouns. For example, "CoolTiger123" or "HappyDragon!". 2. Customization Options:
